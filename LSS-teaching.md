@@ -1280,7 +1280,7 @@ section.center {
 
 ### *“Mi sospecha personal es que el Universo no sólo es más raro de lo que suponemos, sino más raro de lo que podemos suponer.”* — J.B.S. Haldane
 
-**¿Preguntas, comentarios o experiencias didácticas para compartir?**
+**¿Preguntas, comentarios o experiencias para compartir?**
 
 ---
 
