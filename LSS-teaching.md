@@ -681,7 +681,7 @@ El cielo parece una superficie plana cuando lo observamos, pero en realidad lo r
 
 $$r^2\Omega=4\pi r^2
 \quad\Longrightarrow\quad
-\boxed{{\color{red}{\Omega}} = 4\pi\ \text{sr}}$$
+\boxed{\color{red}{\Omega} = 4\pi\ \text{sr}}$$
 
 **Grados cuadrados:**
 
