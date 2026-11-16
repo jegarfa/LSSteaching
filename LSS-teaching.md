@@ -675,13 +675,13 @@ El cielo parece una superficie plana cuando lo observamos, pero en realidad lo r
 
 | Longitud de arco | Área sobre una esfera |
 |:---:|:---:|
-| $S=r\theta$ | $A=r^2\color{red}{\Omega}$ |
+| $S=r\theta$ | $A=r^2 \Omega$ |
 
 Área de una esfera es $A=4\pi r^2$:
 
 $$r^2\Omega=4\pi r^2
 \quad\Longrightarrow\quad
-\boxed{\color{red}{\Omega} = 4\pi\ \text{sr}}$$
+\boxed{\Omega = 4\pi\ \text{sr}}$$
 
 **Grados cuadrados:**
 
